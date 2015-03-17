@@ -55,7 +55,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'click>=3.3',
-        'thriftpy>=0.1.15'
+        'thriftpy==0.1.15'
     ],
     entry_points="""
     [console_scripts]
